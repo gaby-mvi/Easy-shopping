@@ -5,7 +5,7 @@
 <br>
 Esse projeto foi desenvolvido durante as aulas do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>. Onde colocamos em pratica os aprendizados visto em aula, usando software figma e vscode. 
 <br>
-Foi desenvolvido uma pagina web para desktop e também para mobile.
+Foi desenvolvido uma pagina web para desktop e também para mobile, onde foi possivel aprender sobre responsividade e qual a sua importância no mercado.
 <br>
 
 ## 💻Tecnologias
