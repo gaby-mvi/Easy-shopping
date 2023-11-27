@@ -15,7 +15,13 @@ Foi desenvolvido uma pagina web para desktop e também para mobile.
 <br>
 
 <div>
-  <img  src="https://github.com/gaby-mvi/Easy-shopping/blob/main/img/desktop.png?raw=true" width="800px">
-  <img  src="https://github.com/gaby-mvi/Easy-shopping/blob/main/img/mobile.png?raw=true" height="400px" align="right">
   
+  ## Desktop
+  <br>
+  <img  src="https://github.com/gaby-mvi/Easy-shopping/blob/main/img/desktop.png?raw=true" width="800px">
+  <br>
+  
+  ## Mobile
+   <br>
+  <img  src="https://github.com/gaby-mvi/Easy-shopping/blob/main/img/mobile.png?raw=true" height="400px">
 </div>
